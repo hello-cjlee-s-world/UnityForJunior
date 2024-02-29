@@ -2,7 +2,9 @@
 
 ## 초보자를 위한 유니티 입문
 #### `병합 전 커밋 내역`
+* * *
 `ChickAttack`
+
 중간 커밋
 1. 프로젝트 만들기.
 2. 외부 이미지 불러와 스프라이트 나누기
@@ -37,8 +39,10 @@
 5. 병아리 구슬 마찰, 반발 설정
 - Assets 에서 Physics Material 2D 생성, 병아리 프리펩(ChickBallPrefab)에 어태치
 - 포탄 발사, 사라짐 스크립트(DestoryObj) 병아리 프리펩에 설정 후 시간 변경 --> 프리펩에 설정 후 시간 변경해도 기존 DestoryObj에는 영향 주지 않음
-
+- 
+* * *
 `ChickUI`
+
 ChickAttack UI 완성
 p186 ~ p242
 1. 프로젝트 export/import 실습
